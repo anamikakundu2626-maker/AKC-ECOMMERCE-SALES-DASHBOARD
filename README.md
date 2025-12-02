@@ -10,3 +10,4 @@ A dynamic, interactive data visualization for AKC Sales Analysis.
 *  Excel: For calculation and data.
 3. Data Source
 *  Youtube
+4. ![Dashboard Preview].(https://github.com/anamikakundu2626-maker/AKC-ECOMMERCE-SALES-DASHBOARD/blob/main/AKC%20ECOMMERCE%20SALES%20DASHBOARD.PNG)
